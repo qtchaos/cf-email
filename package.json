@@ -1,0 +1,20 @@
+{
+    "name": "cf-email",
+    "module": "index.ts",
+    "type": "module",
+    "version": "1.0.2",
+    "description": "Provides you with simple encode and decode functions for Cloudflare Scrape Shield.",
+    "license": "GPL-3.0-only",
+    "keywords": [
+        "cf",
+        "cloudflare",
+        "email",
+        "cloudflare scrape shield"
+    ],
+    "devDependencies": {
+        "@types/bun": "latest"
+    },
+    "peerDependencies": {
+        "typescript": "^5.0.0"
+    }
+}
